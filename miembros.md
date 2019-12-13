@@ -1,7 +1,8 @@
 # Miembros
 
 * Black panther
-* Black 
+* Black
+* Nick fury
 * Capitán America
 * Capitán Marvel
 * Falcon
